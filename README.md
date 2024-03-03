@@ -1,2 +1,2 @@
-# Capstone-Data-Science
-# data and code here
+# Applied Data Science Capstone
+# IBM on Coursera
